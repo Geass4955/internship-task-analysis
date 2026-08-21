@@ -29,14 +29,14 @@ companies across 5 channels and 5 campaign types during 2021.
 
 ## Project Structure
 
-```
-├── Marketing_Campaign_Effectiveness_Analysis.ipynb   # Full analysis notebook
-├── marketing_campaign_dataset.csv                     # Raw dataset
-├── marketing_campaign_cleaned.csv                     # Cleaned dataset (human-readable)
-├── marketing_campaign_transformed.csv                 # One-hot encoded + scaled dataset
-├── requirements.txt                                   # Python dependencies
-└── README.md
-```
+Marketing anlysis
+│
+├── marketing_campaign_cleaned.csv
+├── marketing_campaign_dataset.csv
+├── Marketing_Campaign_Effectiveness_Analysis.ipynb
+├── marketing_campaign_transformed.csv
+├── README.md
+└── requirements.txt
 
 ## What the Notebook Does
 
