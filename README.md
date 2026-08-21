@@ -27,16 +27,7 @@ companies across 5 channels and 5 campaign types during 2021.
 | `Customer_Segment` | Audience segment |
 | `Date` | Date the campaign ran |
 
-## Project Structure
 
-Marketing anlysis
-│
-├── marketing_campaign_cleaned.csv
-├── marketing_campaign_dataset.csv
-├── Marketing_Campaign_Effectiveness_Analysis.ipynb
-├── marketing_campaign_transformed.csv
-├── README.md
-└── requirements.txt
 
 ## What the Notebook Does
 
